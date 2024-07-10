@@ -284,3 +284,45 @@ main section {
   border-radius: 5px;
 }
 /* My inspiration ends here */
+
+/* Current target start here */
+.current-target {
+  width: 1140px;
+  height: 463px;
+  margin-top: 63px;
+  margin-bottom: 63px;
+}
+
+.frontend-technology-container {
+  margin-top: 48px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.html-container {
+  width: 364px;
+  height: 300px;
+  padding: 40px;
+  border-radius: 16px;
+  background: rgba(255, 76, 30, 0.05);
+}
+.css-container {
+  width: 364px;
+  height: 300px;
+  padding: 40px;
+  margin: 1px solid red;
+  border-radius: 16px;
+  background: rgba(0, 76, 232, 0.05);
+}
+.js-container {
+  width: 364px;
+  height: 300px;
+  padding: 40px;
+  margin: 1px solid red;
+  border-radius: 16px;
+  background: rgba(255, 223, 0, 0.05);
+}
+.html-image-container {
+  margin-bottom: 20px;
+}
+/* Current target ends here */
